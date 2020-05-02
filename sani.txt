@@ -1,2 +1,3 @@
 i love programming
 hello sani welcome to git 
+hello sani welcome to git in manjaro
